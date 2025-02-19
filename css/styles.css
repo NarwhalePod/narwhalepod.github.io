@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     /* background: linear-gradient(135deg, #1d3557, #457b9d); */
     /* background: linear-gradient(to bottom right, #250b37, #040e14); */
     background: #9134C2;
@@ -25,20 +25,33 @@ body {
     height: auto;
 }
 
-.tagline {
-    font-size: 1.3rem;
-    font-weight: lighter;
-    margin-top: 3rem;
+.cta {
+    margin: 3rem 0 0 0;
 }
 
-.footer {
-    margin-top: 20px;
-    display: none;
+.tagline {
+    font-size: 1.2rem;
+    font-weight: 200;
+    margin-bottom: 5rem;
+}
+
+.button {
+    background: transparent;
+    color: yellow;
+    padding: 1rem 3rem;
+    border: 2px solid yellow;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
 }
 
 .footer p {
     margin: 0;
-    font-size: 1rem;
+    font-size: 0.81rem;
+    font-weight: 200;
 }
 
 .social-links {

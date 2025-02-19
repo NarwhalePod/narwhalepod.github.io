@@ -2,7 +2,6 @@ const taglines = [
     "where designers code",
     "where developers design",
     "unicorns exist",
-    "digital mastery lives here",
     "the pod for creatives"
 ];
 
