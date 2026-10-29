@@ -1,5 +1,7 @@
 # narwhalepod.github.io
 
+For current state and next actions, see [HANDOFF.md](HANDOFF.md).
+
 Static site for **Narwhale Pod**, served by GitHub Pages at **narwhalepod.com** (see `CNAME`). The repo lives under the `NarwhalePod` GitHub organization.
 
 Plain HTML, CSS and JavaScript with no build step:
